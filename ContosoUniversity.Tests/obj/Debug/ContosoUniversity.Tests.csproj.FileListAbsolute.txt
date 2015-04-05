@@ -1,0 +1,62 @@
+C:\Users\Krzysztof\Documents\Visual Studio 2013\Projects\ContosoUniversity\ContosoUniversity.Tests\bin\Debug\ContosoUniversity.Tests.dll.config
+C:\Users\Krzysztof\Documents\Visual Studio 2013\Projects\ContosoUniversity\ContosoUniversity.Tests\bin\Debug\ContosoUniversity.Tests.dll
+C:\Users\Krzysztof\Documents\Visual Studio 2013\Projects\ContosoUniversity\ContosoUniversity.Tests\bin\Debug\ContosoUniversity.Tests.pdb
+C:\Users\Krzysztof\Documents\Visual Studio 2013\Projects\ContosoUniversity\ContosoUniversity.Tests\bin\Debug\ContosoUniversity.dll
+C:\Users\Krzysztof\Documents\Visual Studio 2013\Projects\ContosoUniversity\ContosoUniversity.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Krzysztof\Documents\Visual Studio 2013\Projects\ContosoUniversity\ContosoUniversity.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Krzysztof\Documents\Visual Studio 2013\Projects\ContosoUniversity\ContosoUniversity.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Krzysztof\Documents\Visual Studio 2013\Projects\ContosoUniversity\ContosoUniversity.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Krzysztof\Documents\Visual Studio 2013\Projects\ContosoUniversity\ContosoUniversity.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Krzysztof\Documents\Visual Studio 2013\Projects\ContosoUniversity\ContosoUniversity.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Krzysztof\Documents\Visual Studio 2013\Projects\ContosoUniversity\ContosoUniversity.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Krzysztof\Documents\Visual Studio 2013\Projects\ContosoUniversity\ContosoUniversity.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Krzysztof\Documents\Visual Studio 2013\Projects\ContosoUniversity\ContosoUniversity.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Krzysztof\Documents\Visual Studio 2013\Projects\ContosoUniversity\ContosoUniversity.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Krzysztof\Documents\Visual Studio 2013\Projects\ContosoUniversity\ContosoUniversity.Tests\bin\Debug\PagedList.dll
+C:\Users\Krzysztof\Documents\Visual Studio 2013\Projects\ContosoUniversity\ContosoUniversity.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Krzysztof\Documents\Visual Studio 2013\Projects\ContosoUniversity\ContosoUniversity.Tests\bin\Debug\ContosoUniversity.pdb
+C:\Users\Krzysztof\Documents\Visual Studio 2013\Projects\ContosoUniversity\ContosoUniversity.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Krzysztof\Documents\Visual Studio 2013\Projects\ContosoUniversity\ContosoUniversity.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Krzysztof\Documents\Visual Studio 2013\Projects\ContosoUniversity\ContosoUniversity.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Krzysztof\Documents\Visual Studio 2013\Projects\ContosoUniversity\ContosoUniversity.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Krzysztof\Documents\Visual Studio 2013\Projects\ContosoUniversity\ContosoUniversity.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Krzysztof\Documents\Visual Studio 2013\Projects\ContosoUniversity\ContosoUniversity.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Krzysztof\Documents\Visual Studio 2013\Projects\ContosoUniversity\ContosoUniversity.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Krzysztof\Documents\Visual Studio 2013\Projects\ContosoUniversity\ContosoUniversity.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Krzysztof\Documents\Visual Studio 2013\Projects\ContosoUniversity\ContosoUniversity.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\Krzysztof\Documents\Visual Studio 2013\Projects\ContosoUniversity\ContosoUniversity.Tests\bin\Debug\PagedList.xml
+C:\Users\Krzysztof\Documents\Visual Studio 2013\Projects\ContosoUniversity\ContosoUniversity.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Krzysztof\Documents\Visual Studio 2013\Projects\ContosoUniversity\ContosoUniversity.Tests\obj\Debug\ContosoUniversity.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Krzysztof\Documents\Visual Studio 2013\Projects\ContosoUniversity\ContosoUniversity.Tests\obj\Debug\ContosoUniversity.Tests.dll
+C:\Users\Krzysztof\Documents\Visual Studio 2013\Projects\ContosoUniversity\ContosoUniversity.Tests\obj\Debug\ContosoUniversity.Tests.pdb
+D:\Projects\ContosoUniversity\ContosoUniversity.Tests\bin\Debug\ContosoUniversity.Tests.dll.config
+D:\Projects\ContosoUniversity\ContosoUniversity.Tests\bin\Debug\ContosoUniversity.Tests.dll
+D:\Projects\ContosoUniversity\ContosoUniversity.Tests\bin\Debug\ContosoUniversity.Tests.pdb
+D:\Projects\ContosoUniversity\ContosoUniversity.Tests\bin\Debug\ContosoUniversity.dll
+D:\Projects\ContosoUniversity\ContosoUniversity.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Projects\ContosoUniversity\ContosoUniversity.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\ContosoUniversity\ContosoUniversity.Tests\bin\Debug\System.Web.Helpers.dll
+D:\Projects\ContosoUniversity\ContosoUniversity.Tests\bin\Debug\System.Web.Mvc.dll
+D:\Projects\ContosoUniversity\ContosoUniversity.Tests\bin\Debug\System.Web.Razor.dll
+D:\Projects\ContosoUniversity\ContosoUniversity.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Projects\ContosoUniversity\ContosoUniversity.Tests\bin\Debug\System.Web.WebPages.dll
+D:\Projects\ContosoUniversity\ContosoUniversity.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Projects\ContosoUniversity\ContosoUniversity.Tests\bin\Debug\EntityFramework.dll
+D:\Projects\ContosoUniversity\ContosoUniversity.Tests\bin\Debug\System.Web.Optimization.dll
+D:\Projects\ContosoUniversity\ContosoUniversity.Tests\bin\Debug\PagedList.dll
+D:\Projects\ContosoUniversity\ContosoUniversity.Tests\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\ContosoUniversity\ContosoUniversity.Tests\bin\Debug\ContosoUniversity.pdb
+D:\Projects\ContosoUniversity\ContosoUniversity.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\ContosoUniversity\ContosoUniversity.Tests\bin\Debug\System.Web.Helpers.xml
+D:\Projects\ContosoUniversity\ContosoUniversity.Tests\bin\Debug\System.Web.Mvc.xml
+D:\Projects\ContosoUniversity\ContosoUniversity.Tests\bin\Debug\System.Web.Razor.xml
+D:\Projects\ContosoUniversity\ContosoUniversity.Tests\bin\Debug\System.Web.WebPages.xml
+D:\Projects\ContosoUniversity\ContosoUniversity.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Projects\ContosoUniversity\ContosoUniversity.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Projects\ContosoUniversity\ContosoUniversity.Tests\bin\Debug\EntityFramework.xml
+D:\Projects\ContosoUniversity\ContosoUniversity.Tests\bin\Debug\System.Web.Optimization.xml
+D:\Projects\ContosoUniversity\ContosoUniversity.Tests\bin\Debug\PagedList.xml
+D:\Projects\ContosoUniversity\ContosoUniversity.Tests\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\ContosoUniversity\ContosoUniversity.Tests\obj\Debug\ContosoUniversity.Tests.csprojResolveAssemblyReference.cache
+D:\Projects\ContosoUniversity\ContosoUniversity.Tests\obj\Debug\ContosoUniversity.Tests.dll
+D:\Projects\ContosoUniversity\ContosoUniversity.Tests\obj\Debug\ContosoUniversity.Tests.pdb

@@ -1,0 +1,23 @@
+﻿@{
+    ViewBag.Title = "Update Course Credits";
+}
+
+<h2>Update Course Credits</h2>
+@if (ViewBag.RowsAffected == null)
+{
+    using (Html.BeginForm())
+    {
+        <p>
+            Enter a number to multipy every course's credits by: @Html.TextBox("multiplier")
+        </p>
+        <input type="submit" value="Update" />
+    }
+}
+
+@if (ViewBag.RowsAffected != null)
+{
+    <p>Number of rows updated: @ViewBag.RowsAffected</p>
+}
+<div>
+    @Html.ActionLink("Back To List", "Index")
+</div>
